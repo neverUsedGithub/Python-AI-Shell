@@ -7,7 +7,10 @@ An AI designed to help you write shell commands, using `mistral-7b-instruct-v0.1
 - 3.83 GB of free space
 
 # Getting started
-### Firstly install the required packages.
+### Clone the repo
+`git clone https://github.com/neverUsedGithub/Python-AI-Shell`
+`cd Python-AI-Shell`
+### Install the required packages
 `pip install -r requirements.txt`
-### Then just run it.
+### Run it
 `python main.py`
